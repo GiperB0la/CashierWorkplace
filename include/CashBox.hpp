@@ -1,6 +1,7 @@
 #pragma once
 #include <iostream>
 #include <vector>
+#include <limits>
 #include "Cheque.hpp"
 #include "ProductDatabase.hpp"
 

@@ -8,6 +8,7 @@ Cheese,3456789012345,379.00
 Water,4567890123456,25.00
 Water,4567890123456,25.00
 ```
+Сборка:
 ```build
 mkdir build
 cd build

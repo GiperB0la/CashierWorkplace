@@ -8,3 +8,10 @@ Cheese,3456789012345,379.00
 Water,4567890123456,25.00
 Water,4567890123456,25.00
 ```
+```build
+mkdir build
+cd build
+cmake ..
+make
+```
+В Release уже предоставлены сборки под Windows и Linux, чтоб не собирать программу самому.
